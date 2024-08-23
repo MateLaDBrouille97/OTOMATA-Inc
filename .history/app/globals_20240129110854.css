@@ -32,13 +32,13 @@ body {
   }
 }
 
-.main2 {
+.main {
   height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-.gallery2{
+.gallery{
   width: 70%;
 }

@@ -31,14 +31,3 @@ body {
     text-wrap: balance;
   }
 }
-
-.main2 {
-  height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.gallery2{
-  width: 70%;
-}
