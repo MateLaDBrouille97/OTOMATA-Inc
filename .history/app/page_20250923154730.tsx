@@ -26,7 +26,7 @@ export default function Home() {
     {
       title1: "Portfolio",
       title2: "Manuel",
-      src: "/Mur.jpg",
+      src: "/MTL.png",
       link:"https://portfolio-manulab.vercel.app/",
     },
  
