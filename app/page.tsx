@@ -54,7 +54,7 @@ export default function Home() {
   ]
 
   return (
-   <div className="min-h-screen bg-gradient-to-br from-gray-50 to-gray-100 flex items-center justify-center p-4 sm:p-6">
+   <div className="min-h-screen bg-gradient-to-br from-indigo-50 via-purple-50 to-blue-50 flex items-center justify-center p-4 sm:p-6">
       <div className="w-full max-w-[420px] flex flex-col items-center gap-6 sm:gap-8 py-8 sm:py-12">
         {/* Profile Section */}
         <div className="flex flex-col items-center gap-3 sm:gap-4">
@@ -64,12 +64,14 @@ export default function Home() {
             className="w-[90px] h-[90px] sm:w-[120px] sm:h-[120px] rounded-full shadow-md object-cover transition-transform duration-300 hover:scale-105"
           />
           <div className="text-center">
-            <h1 className="text-2xl sm:text-3xl font-bold text-[#111] mb-1">
+            <h1 className="text-2xl sm:text-3xl font-bold text-[#111] mb-4">
               Manuel LABRIDY
             </h1>
-            <p className="text-sm sm:text-base text-[#555] font-medium">
-              Biologist, Data Analyst & Web developer
-            </p>
+             <div className="relative inline-block">
+              <p className="text-sm sm:text-base text-[#555] font-medium bg-yellow-100 px-4 py-2 rounded-lg shadow-sm border border-yellow-200/50" style={{ transform: 'rotate(5deg)' }}>
+                Biologist, Data Analyst & Web developper
+              </p>
+            </div>
           </div>
         </div>
 
