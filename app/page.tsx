@@ -18,7 +18,7 @@ export default function Home() {
 
   const links = [
     { title: 'My Portfolio', url: 'https://portfolio-anim-manu.vercel.app/', gradient: 'from-[#311b92] to-[#4527a0]', bgImage:"/MTL.png" },
-    { title: 'Latest Project', url: '#', gradient: 'from-[#512da8] to-[#5e35b1]', bgImage:"/Lloyd-Inc-972.png" },
+    { title: 'LLOYD', url: '#', gradient: 'from-[#512da8] to-[#5e35b1]', bgImage:"/LLOYD.png" },
     { title: 'Blog', url: 'https://blog2-eosin-beta.vercel.app/', gradient: 'from-[#5c6bc0] to-[#7986cb]', bgImage:"/coworkers.jpg" },
     // { title: 'Newsletter', url: '#', gradient: 'from-[#5c6bc0] to-[#7986cb]', bgImage:"/Lloyd-Inc-972.png" },
     { title: 'Contact Me', url: '#', gradient: 'from-[#90caf9] to-[#bbdefb]', bgImage:"" },
