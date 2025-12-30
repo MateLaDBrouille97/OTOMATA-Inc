@@ -68,7 +68,7 @@ export default function Home() {
               Manuel LABRIDY
             </h1>
              <div className="relative inline-block">
-              <p className="text-sm sm:text-base text-[#555] font-medium bg-yellow-100 px-4 py-2 rounded-lg shadow-sm border border-yellow-200/50" style={{ transform: 'rotate(5deg)' }}>
+              <p className="text-sm sm:text-base text-[#555] font-medium bg-yellow-100 px-4 py-2 rounded-lg shadow-sm border border-yellow-200/50" style={{ transform: 'rotate(2deg)' }}>
                 Biologist, Data Analyst & Web developper
               </p>
             </div>
