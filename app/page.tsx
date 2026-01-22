@@ -59,7 +59,7 @@ export default function Home() {
         {/* Profile Section */}
         <div className="flex flex-col items-center gap-3 sm:gap-4">
           <img
-            src="/Mur.jpg"
+            src="/Manu.JPG"
             alt="Profile"
             className="w-[90px] h-[90px] sm:w-[120px] sm:h-[120px] rounded-full shadow-md object-cover transition-transform duration-300 hover:scale-105"
           />
