@@ -17,11 +17,11 @@ export default function Home() {
 
 
   const links = [
-    { title: 'My Portfolio', url: 'https://portfolio-anim-manu.vercel.app/', gradient: 'from-[#311b92] to-[#4527a0]', bgImage:"/MTL.png" },
+    { title: 'ÖTOMATA AGENCY', url: 'https://xn--tomataagency-3ib.com/', gradient: 'from-[#311b92] to-[#4527a0]', bgImage:"/OtomataA.png" },
     { title: 'LLOYD', url: '#', gradient: 'from-[#512da8] to-[#5e35b1]', bgImage:"/LLOYD.png" },
     { title: 'Blog', url: 'https://blog2-eosin-beta.vercel.app/', gradient: 'from-[#5c6bc0] to-[#7986cb]', bgImage:"/coworkers.jpg" },
-    // { title: 'Newsletter', url: '#', gradient: 'from-[#5c6bc0] to-[#7986cb]', bgImage:"/Lloyd-Inc-972.png" },
-    { title: 'Contact Me', url: '#', gradient: 'from-[#90caf9] to-[#bbdefb]', bgImage:"" },
+    { title: 'AtriUM', url: 'https://atrihome2024.vercel.app/', gradient: 'from-[#8ec2f6] to-[#5faef2]', bgImage:"/AtriHOME2.png" },
+    { title: 'Contact Me', url: 'https://xn--tomataagency-3ib.com/#contact', gradient: 'from-[#90caf9] to-[#bbdefb]', bgImage:"Manu.jpg" },
   ];
 
   const projects = [
@@ -61,7 +61,7 @@ export default function Home() {
           <img
             src="/Manu.JPG"
             alt="Profile"
-            className="w-[90px] h-[90px] sm:w-[120px] sm:h-[120px] rounded-full shadow-md object-cover transition-transform duration-300 hover:scale-105"
+            className="w-[160px] h-[160px] sm:w-[220px] sm:h-[220px] rounded-full shadow-md object-cover transition-transform duration-300 hover:scale-105"
           />
           <div className="text-center">
             <h1 className="text-2xl sm:text-3xl font-bold text-[#111] mb-4">
