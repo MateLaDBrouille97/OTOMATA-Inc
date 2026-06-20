@@ -18,9 +18,10 @@ export default function Home() {
 
   const links = [
     { title: 'ÖTOMATA AGENCY', url: 'https://xn--tomataagency-3ib.com/', gradient: 'from-[#311b92] to-[#4527a0]', bgImage:"/OtomataA.png" },
-    { title: 'LLOYD', url: '#', gradient: 'from-[#512da8] to-[#5e35b1]', bgImage:"/LLOYD.png" },
+    { title: 'LLOYD', url: '#', gradient: 'from-[#512da8] to-[#5e35b1]', bgImage:"/LLOYD21.png" },
     { title: 'Blog', url: 'https://blog2-eosin-beta.vercel.app/', gradient: 'from-[#5c6bc0] to-[#7986cb]', bgImage:"/coworkers.jpg" },
     { title: 'AtriUM', url: 'https://atrihome2024.vercel.app/', gradient: 'from-[#8ec2f6] to-[#5faef2]', bgImage:"/AtriHOME2.png" },
+    { title: 'Budget IA', url: 'https://budget-indiv2.vercel.app/', gradient: 'from-[#90caf9] to-[#bbdefb]', bgImage:"/Budget.png" },
     { title: 'Contact Me', url: 'https://xn--tomataagency-3ib.com/#contact', gradient: 'from-[#90caf9] to-[#bbdefb]', bgImage:"Manu.jpg" },
   ];
 
