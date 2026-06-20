@@ -18,7 +18,7 @@ export default function Home() {
     { title: 'Blog', url: 'https://blog2-eosin-beta.vercel.app/', bgImage: '/coworkers.jpg' },
     { title: 'AtriUM', url: 'https://atrihome2024.vercel.app/', bgImage: '/AtriHOME2.png' },
     { title: 'Budget IA', url: 'https://budget-indiv2.vercel.app/', bgImage: '/Budget.png' },
-    { title: 'Contact Me', url: 'https://xn--tomataagency-3ib.com/#contact', bgImage: '/Manu.jpg' },
+    { title: 'Contact Me', url: 'https://xn--tomataagency-3ib.com/#contact', bgImage: 'Manu.jpg' },
   ];
 
   const projects = [
