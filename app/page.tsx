@@ -18,7 +18,7 @@ export default function Home() {
     { title: 'Blog', url: 'https://blog2-eosin-beta.vercel.app/', bgImage: '/coworkers.jpg' },
     { title: 'AtriUM', url: 'https://atrihome2024.vercel.app/', bgImage: '/AtriHOME2.png' },
     { title: 'Budget IA', url: 'https://budget-indiv2.vercel.app/', bgImage: '/Budget.png' },
-    { title: 'Contact Me', url: 'https://xn--tomataagency-3ib.com/#contact', bgImage: '/Manu.jpg' },
+    { title: 'Get In Touch', url: 'https://xn--tomataagency-3ib.com/#contact', bgImage: '/Manu.png' },
   ];
 
   const projects = [
@@ -52,7 +52,7 @@ export default function Home() {
               style={{ border: '1.5px solid #211B36', opacity: 0.4, transform: 'rotate(-3deg) scale(1.05)' }}
             />
             <img
-              src="/Manu.JPG"
+              src="/Manu.png"
               alt="Profile"
               className="absolute inset-0 w-full h-full rounded-full object-cover"
             />
