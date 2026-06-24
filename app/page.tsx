@@ -14,10 +14,10 @@ export default function Home() {
 
   const links = [
     { title: 'ÖTOMATA AGENCY', url: 'https://xn--tomataagency-3ib.com/', bgImage: '/OtomataA.png' },
-    { title: 'LLOYD', url: '#', bgImage: '/LLOYD21.png' },
-    { title: 'Blog', url: 'https://blog2-eosin-beta.vercel.app/', bgImage: '/coworkers.jpg' },
-    { title: 'AtriUM', url: 'https://atrihome2024.vercel.app/', bgImage: '/AtriHOME2.png' },
     { title: 'Budget IA', url: 'https://budget-indiv2.vercel.app/', bgImage: '/Budget.png' },
+    { title: 'LLOYD', url: '#', bgImage: '/LLOYD21.png' },
+    { title: 'AtriUM', url: 'https://atrihome2024.vercel.app/', bgImage: '/AtriHOME2.png' },
+    { title: 'Blog', url: 'https://blog2-eosin-beta.vercel.app/', bgImage: '/coworkers.jpg' },
     { title: 'Get In Touch', url: 'https://xn--tomataagency-3ib.com/#contact', bgImage: '/Manu.png' },
   ];
 
